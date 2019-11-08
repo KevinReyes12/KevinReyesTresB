@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\bin\Debug\TADPila.exe.config
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\bin\Debug\TADPila.exe
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\bin\Debug\TADPila.pdb
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\obj\Debug\TADPila.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\obj\Debug\TADPila.exe
+C:\Users\pc\source\repos\KevinReyes3B\TADPila\obj\Debug\TADPila.pdb
